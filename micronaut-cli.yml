@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, data, data-jdbc, flyway, gdk-bom, gdk-license, gdk-oci-cloud-app, gdk-oci-database, gdk-oci-logging, gdk-oci-objectstore, gdk-oci-tracing, graalvm, http-client, java, java-application, jdbc-hikari, junit, logback, maven, maven-enforcer-plugin, micronaut-http-validation, netty-server, object-storage-oracle-cloud, oracle-cloud-atp, oracle-cloud-sdk, properties, readme, serialization-jackson, shade, static-resources, test-resources, validation]
